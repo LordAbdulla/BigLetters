@@ -12,7 +12,7 @@ print('''
 /_____/_/\__, /  /_____/\___/\__/\__/\___/_/  /____/  
         /____/                                        
 
-        Tele : @DewTools | @LordAbdulla 
+        Insta : @hr8k 
                                             ''')
 dewx = input(" Enter The Text To Convert It : ")
 
@@ -20,6 +20,5 @@ dady = figlet_format(dewx, 'slant')
 print(dady)
 
 
-#Telegram : @DewTools
 #Inst : @hr8k
 #Github : github.com/LordAbdulla
